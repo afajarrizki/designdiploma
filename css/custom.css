@@ -1,0 +1,115 @@
+.container-fluid.gambar-bagian-1{
+	background: url(../images/bg.original.png) orange;
+}
+
+img.coba{
+	background:right;
+}
+
+.col-md-6.gambar-bagian-1-1{
+	background:url(../images/fst72w-big-image_0dz0d20dz0d2000000.png) no-repeat;
+}
+
+button.btn.btn-primary.btn-lg.btn-block {
+    border-color: #60607a;
+    background: linear-gradient(#57a9e5, #153ac2);
+}
+
+.container.color1 h4 {
+    color: orange;
+}
+
+.container-fluid.gambar-bagian-2{
+	background: url(../images/bg.original.png);
+}
+
+.learn .list-group-item{
+	padding: 0.20rem 0rem;
+	border: 0;
+	background:transparent;
+
+}
+
+i.fas.fa-check {
+    color: orange;
+}
+
+.list-group-item a{
+	margin-left: 10px; 
+	color: black;
+}
+
+.images1 {
+    width: 170px;
+    display: inline-block;
+    border-radius: 100px;
+    border: 5px red solid;
+}
+
+.images0 {
+    width: 180px;
+    display: inline-block;
+    border-radius: 100px;
+    border: 5px orange solid;
+}
+
+.top {
+    top: -50px;
+    z-index: -1;
+}
+
+
+li.list-group-item.bawah {
+    background: transparent;
+    border: 0px;
+    padding: 0;
+}
+
+.container-fluid.warnabawah {
+    background: #fa5323;
+    color: white;
+}
+
+.container-fluid.warnabawah2 {
+    background: #e53c0b;
+    color:white;
+}
+
+.col-sm-12 img{
+	margin: 10px 0 10px 0;
+}
+
+.col-12 h4,.col-12 p,.col-12 ul.list-group{
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+img.img-fluid.flip{
+	transition: transform 1s;
+	transform-style: preserve-3d;
+	display: inline-block;
+
+}
+
+img.img-fluid.flip:hover{
+	transform: rotateX(180deg);
+}
+
+.images1.flip{
+	transition: transform 1s;
+	transform-style: preserve-3d;
+	display: inline-block;
+}
+
+.images1.flip:hover{
+	transform: rotateY(180deg);
+}
+
+img.img-fluid.opacity{
+	opacity: 0.5;
+	transition: opacity 2s;
+}
+
+img.img-fluid.opacity:hover{
+	opacity: 1;
+}
